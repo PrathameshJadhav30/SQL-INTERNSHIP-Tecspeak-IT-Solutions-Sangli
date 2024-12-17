@@ -28,9 +28,7 @@ Optimizing queries for large datasets
 - SQL Tools: MySQL Workbench
 - Dataset Management: CSV files for data import/export
 - Optimization: Query Execution Plans, Indexing
-# 🔗 Useful Resources
-  # SQL Basics - W3Schools
-   # MySQL Documentation
+
 
 # 🏆 Internship Experience
 The internship at Tecspeak IT Solutions, Sangli provided valuable insights into practical SQL usage, query performance optimization, and database management in real-world scenarios. I improved my problem-solving skills, query-writing abilities, and efficiency in handling relational databases.
