@@ -35,6 +35,14 @@ MySQL Documentation
 # 🏆 Internship Experience
 The internship at Tecspeak IT Solutions, Sangli provided valuable insights into practical SQL usage, query performance optimization, and database management in real-world scenarios. I improved my problem-solving skills, query-writing abilities, and efficiency in handling relational databases.
 
+ ## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
+
 # ⭐ Acknowledgments
 - Tecspeak IT Solutions, Sangli for providing this opportunity.
 - My mentors and peers for their support and guidance.
